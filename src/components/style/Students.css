@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+th {
+    background-color: #f2f2f2;
+}
+.marks{
+    text-align:center;
+}
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin:50px;
+}
